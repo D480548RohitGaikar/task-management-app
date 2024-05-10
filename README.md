@@ -106,3 +106,8 @@ Register Users: http://localhost:3000/api/user/register
     },
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2M2JkNDAxZGU2MjIwYTg0YzA1Y2I0OCIsImlhdCI6MTcxNTE5NjkyOSwiZXhwIjoxNzE1NDU2MTI5fQ.__n5r7p8L8jDhAbiw__g14BaONVHxEMx6CYUP5jzvRQ"
 }
+
+# deployment
+1. Here is my front-end link: https://task-management-app-livid-eta.vercel.app
+2. By backend is not getting deployd so that's why front end is also not getting the response
+3. but if run locally it runs very well, no issues in running locally
