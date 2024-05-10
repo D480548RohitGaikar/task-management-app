@@ -6,6 +6,7 @@
  5. change the directory to cd/frontend/task-management-app and then just give the npm install command it will download the necesssary dependencies and then click on the provided url
  6. change the directory to cd/backend and then just give the npm install command it will download the necesssary dependencies
  7. to download the dependencies make sure you have NodeJs install on your machine
+ 8. for the database i have used mongodb compass make sure you make a local connection and also refer config.env for connection details
 
 # api documentation
 Task Management App
